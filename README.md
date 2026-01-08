@@ -24,7 +24,7 @@ By leveraging **SeaORM** on the backend and **TypeScript** on the frontend (powe
 The Rust-based backend (**Salvo**) uses a fraction of the RAM and CPU compared to traditional Node.js or Python backends, significantly reducing your 2026 cloud infrastructure costs.
 
 ### 3. Sub-Millisecond Reactivity
-**SolidStart** skips the Virtual DOM entirely. Combined with **Salvo’s** high-concurrency [Tokio](tokio.rs) runtime, the S-Cube stack provides a near-instantaneous user experience even under heavy load.
+**SolidStart** skips the Virtual DOM entirely. Combined with **Salvo’s** high-concurrency [Tokio](https://tokio.rs) runtime, the S-Cube stack provides a near-instantaneous user experience even under heavy load.
 
 ---
 
