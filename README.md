@@ -8,10 +8,10 @@ The **S-Cube Stack** is a cutting-edge web architecture designed for 2026 enterp
 
 ## 🛠 The Pillars of S³
 
-- **[Salvo](salvo.rs) (Rust):** A lightning-fast, ergonomic web framework. It handles the heavy lifting with native **HTTP/3** support and automatic **OpenAPI** documentation.
-- **[SolidStart](start.solidjs.com) (SolidJS):** The next generation of meta-frameworks. Utilizing fine-grained reactivity, it delivers the smallest possible JavaScript bundles and industry-leading runtime performance.
-- **[SeaORM](www.sea-ql.org) (Rust):** An async, dynamic ORM for Rust. It allows you to build complex relational queries with type safety, ensuring your data layer is as robust as your backend.
-- **[PostgreSQL](www.postgresql.org):** The world’s most advanced open-source relational database, serving as the reliable "Source of Truth" for your enterprise data.
+- **[Salvo](https://salvo.rs) (Rust):** A lightning-fast, ergonomic web framework. It handles the heavy lifting with native **HTTP/3** support and automatic **OpenAPI** documentation.
+- **[SolidStart](https://start.solidjs.com) (SolidJS):** The next generation of meta-frameworks. Utilizing fine-grained reactivity, it delivers the smallest possible JavaScript bundles and industry-leading runtime performance.
+- **[SeaORM](https://www.sea-ql.org) (Rust):** An async, dynamic ORM for Rust. It allows you to build complex relational queries with type safety, ensuring your data layer is as robust as your backend.
+- **[PostgreSQL](https://www.postgresql.org):** The world’s most advanced open-source relational database, serving as the reliable "Source of Truth" for your enterprise data.
 
 ---
 
